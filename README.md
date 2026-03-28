@@ -1,2 +1,2 @@
-# websites
-Here are the list of websites created by me for understanding the fundmentals of website building.
+# EVENT WEBSITE PROTOTYPE
+Here is a example website code created by me for an event. 
